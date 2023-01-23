@@ -1,0 +1,36 @@
+# Quantifying Uncertainty in Forest Ecosystem Service Valuation
+
+## Introduction
+
+There is a need to accurately quantify the economic and social benefits that ecosystems provide.  This is needed for two primary reasons. First, it is required to accurately understand the costs of compromising ecosystem structure and function, and thereby to rigorously price ecosystem losses and degradation into the economy. Second, it is necessary to accurately design incentives to managing for ecosystem resilience, restoration, and protection. It is well understood, for example, that New England forests provide a host of benefits to society, including forest products, wildlife habitat, water quality, and carbon sequestration. Conventional forest products such as lumber and fiber are typically the only ecosystem products and services that are rigorously quantified and valued in the economy, however. This is due both to their importance in the material economy, and also due to their relative ease to measure and value. Focusing on a single value that forests provide leads to imbalanced management, however, that comes at the cost of ignoring values that are less easy to quantify but of no less value to society. Clearly what is needed are methods that allow us to rigorously quantify and value services such as water quality, biodiversity, and carbon sequestration and storage in order to be able to manage forests to provide a basket of goods and services across the landscape.
+
+Because of this need, efforts to quantify and trade other ecosystem services besides wood have been developing and growing over the past 30 years. For example, the voluntary carbon market (VCM) conducted $XXM of trade in 2022, YY% of which was forest carbon. Given the importance of managing forests for carbon sequestration and storage in order to meet climate change mitigation targets, it is expected that demand for forest carbon will continue to rise. There are active efforts to develop similar trading mechanisms for both wildlife habitat and water quality and delivery. All such markets and trading mechanisms still face significant hurdles in their implementation in a way that clearly results in benefits to society and are not simply greenwashing. Unfortunately, carbon markets are today plagued by fundamental questions of quality, and its efficacy in creating true offsets is doubtful. Each year there is a new parade of journalistic and scientific publications calling into question the real benefits that forest carbon projects provide in terms of climate change mitigation, with some estimating that 90% or more of all carbon projects could be mostly if not fully non-additional. Thus while functional ecosystem services markets could in theory be a valuable tool for allocating capital and incentivizing management of forests for goods and services other than wood, in practice their true efficacy as currently instantiated is doubtful.
+
+Part of the challenge to developing robust markets for ecosystem services other than wood comes from problems related to measurement and modeling. While a whole science of forest biometrics has developed around the quantification of growth and yield of wood products, the field of quantifying other ecosystem services from forests is comparatively young. Moreover, the fields of ecosystem service quantification and conventional forest biometrics are somewhat split, both culturally and methodologically. Conventional forest biometrics has traditionally focused on design-based field sampling and using unbiased estimation techniques to develop point estimates of growth and yield. This is partly due to the history of forestry and its close affiliation with classical statistical techniques and the development of sampling theory in the 20th century. It is fairly straightforward to develop sampling designs and field measurement protocols to quantify stocking, and to develop fairly simple models of growth to project future yield. This is especially true in intensive, relatively homogenous management scenarios such as plantations. Because of this, forest biometrics has been relatively conservative, relying on point estimates from design unbiased sample designs.
+
+By contrast, rigorously quantifying other ecosystem services requires more complex measurement and modeling efforts, often requiring several interrelated spatiotemporal models of ecosystem structure and function. For example, accurately and precisely measuring the amount of terrestrial carbon stored on a sample plot would, in theory, require a full accounting of mineral soil carbon, litter layer carbon, downed woody debris, and live and dead aboveground biomass. Actually measuring this quantity is not really feasible, and certainly not scalable. Instead, we can at best develop probability models of these quantities. Moreover, the carbon cycle is such that the quantity of carbon stored in each of these pools is not static, but changes over time. Building a model of carbon sequestration and storage for forests that takes into account all
+
+## Methods
+
+We develop models of three ecosystem products and services related to forest composition and structure, focusing on uncertainty propagation  
+
+# Spatiotemporal Uncertainty in Ecosystem Service Valuation
+
+## Introduction
+
+
+
+## Methods
+
+# Chapter Three: Uncertainty Under Differing Management and Climate Assumptions
+
+## Introduction
+
+## Methods
+
+# Managing Under Uncertainty: A Decision Theoretic Approach to Forest Management
+
+## Introduction
+
+## Methods
+
